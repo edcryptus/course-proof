@@ -83,6 +83,21 @@ Why must you never commit a password, even if you remove it later?
 
 2026-11-10, Day 3: GitHub
 
+Step 1: Creating a GitHub Repository
+- I created a public GitHub repository named `my-first-repo` while leaving the README and `.gitignore` options unchecked.
+
+Step 2: Pushing My Local Repository to GitHub
+- I ran the following commands in my terminal: `git remote add origin https://github.com/edcryptus/my-first-repo.git`, `git branch -M main`, and `git push -u origin main` to connect my local repository to GitHub and push my files.
+
+Step 3: Creating a README.md File
+- I created a `README.md` file to describe my repository. I added a title and a few lines explaining what the repository is about.
+
+Step 6: Editing a File Directly on GitHub
+- I edited `README.md` directly on GitHub using the pencil icon. I added a new line and committed the changes on GitHub.
+
+Step 7: Pulling Changes from GitHub
+- I ran `git pull` in my local repository to download the updated version of the README file from GitHub.
+
 **What I built:**
 
 **Answers to the Check yourself questions:**
